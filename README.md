@@ -90,7 +90,12 @@ Women: Widowed (49.8%), Married (29.8%).
 ## Number of Deaths by Race:
 
 Heart Disease: Predominantly White individuals.
+
+![Heart_Fig3](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/695e2de6-0703-4cd8-bcf6-64be25bfd053)
+
 Lung Disease: Predominantly White individuals.
+
+![lung_Fig7](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/1e2c3e74-8373-4ae1-a4b3-7d922c71bf48)
 
 ## Age Distribution of Affected Individuals:
 
@@ -102,6 +107,10 @@ Lung Disease: Predominantly aged 60-80 years.
 Heart Disease: Death rates increase significantly with age.
 Lung Disease: Similar trend with increasing death rates with age.
 
+![Heart_Fig4](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/b4c1d841-7a8a-4319-baa0-896b507612f0)
+
+![lung_Fig4](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/afcfe842-9a19-4876-ba98-28ba55e4b0fb)
+
 ## Regression Analysis:
 
 Both linear and curvilinear regression analyses highlight the exponential increase in death rates among older age groups for heart and lung diseases.
@@ -110,9 +119,12 @@ Both linear and curvilinear regression analyses highlight the exponential increa
 
 Heart, lung, and diabetes deaths fluctuate over the years, with heart disease consistently having the highest number of deaths.
 
+![allyearFig4](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/15afd328-e7c0-4dbd-a617-16310dc804f0)
+
 ## Age Distribution Comparison by Gender:
 
 For heart, lung, and diabetes diseases, both genders are predominantly affected in older age groups, with a median age around 80.
+
 
 ## Summary
 
