@@ -64,6 +64,8 @@ Visualization: Creating visual representations (e.g., charts, graphs) to illustr
 ## Results
 Our analysis revealed several interesting findings:
 
+![lung_Fig2](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/c52dd874-80de-4fd0-a4b3-7741d5307653)
+
 ## Contributors
 Jessica Borbon 
 Stephanie Souza
