@@ -36,7 +36,7 @@ Population Data:
 Step 2: Clean the Data
 
 Cleaning Mortality Data:
-1. Open the 2005_US_Death_DataCleaning.ipynb Jupyter Notebook file in your local environment.
+1. Open the '2005_US_Death_DataCleaning.ipynb' Jupyter Notebook file in your local environment.
 2. Follow the steps outlined in the notebook to clean the 2005 mortality data.
 3. Apply the same cleaning process to the data for each subsequent year.
 
@@ -80,12 +80,11 @@ Men: Married (53.0%), Widowed (22.7%).
 Women: Widowed (65.2%), Married (18.4%).
 
 ![Heart_Fig2](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/ae474fe9-1c0f-4d87-8aae-b11fbfdcde27)
+![lung_Fig2](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/c52dd874-80de-4fd0-a4b3-7741d5307653)
 
 Lung Disease:
 Men: Married (58.7%), Widowed (19.4%).
 Women: Widowed (49.8%), Married (29.8%).
-
-![lung_Fig2](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/c52dd874-80de-4fd0-a4b3-7741d5307653)
 
 ## Number of Deaths by Race:
 
