@@ -64,7 +64,55 @@ Visualization: Creating visual representations (e.g., charts, graphs) to illustr
 ## Results
 Our analysis revealed several interesting findings:
 
+## Gender Distribution in Disease Deaths:
+
+Heart Disease: Males (52.1%), Females (47.9%).
+Lung Disease: Males (53.3%), Females (46.7%).
+
+![Heart_Fig1](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/91f1e0d0-a337-4a44-892f-ff1df2a74be7)
+
+![lung_Fig1](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/5877e4e8-4305-4a2b-84cc-da6d653a556b)
+
+## Marital Status Distribution:
+
+Heart Disease:
+Men: Married (53.0%), Widowed (22.7%).
+Women: Widowed (65.2%), Married (18.4%).
+
+Heart_Fig2](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/ae474fe9-1c0f-4d87-8aae-b11fbfdcde27)
+
+Lung Disease:
+Men: Married (58.7%), Widowed (19.4%).
+Women: Widowed (49.8%), Married (29.8%).
+
 ![lung_Fig2](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/c52dd874-80de-4fd0-a4b3-7741d5307653)
+
+## Number of Deaths by Race:
+
+Heart Disease: Predominantly White individuals.
+Lung Disease: Predominantly White individuals.
+
+## Age Distribution of Affected Individuals:
+
+Heart Disease: Predominantly aged 60-80 years.
+Lung Disease: Predominantly aged 60-80 years.
+
+## Death Rates by Age Group:
+
+Heart Disease: Death rates increase significantly with age.
+Lung Disease: Similar trend with increasing death rates with age.
+
+## Regression Analysis:
+
+Both linear and curvilinear regression analyses highlight the exponential increase in death rates among older age groups for heart and lung diseases.
+
+## Trends in Disease Deaths Over Time:
+
+Heart, lung, and diabetes deaths fluctuate over the years, with heart disease consistently having the highest number of deaths.
+
+## Age Distribution Comparison by Gender:
+
+For heart, lung, and diabetes diseases, both genders are predominantly affected in older age groups, with a median age around 80.
 
 ## Contributors
 Jessica Borbon 
