@@ -79,7 +79,7 @@ Heart Disease:
 Men: Married (53.0%), Widowed (22.7%).
 Women: Widowed (65.2%), Married (18.4%).
 
-Heart_Fig2](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/ae474fe9-1c0f-4d87-8aae-b11fbfdcde27)
+![Heart_Fig2](https://github.com/azmedtech/ASU_DA_Project1_Team2/assets/145080930/ae474fe9-1c0f-4d87-8aae-b11fbfdcde27)
 
 Lung Disease:
 Men: Married (58.7%), Widowed (19.4%).
@@ -113,6 +113,12 @@ Heart, lung, and diabetes deaths fluctuate over the years, with heart disease co
 ## Age Distribution Comparison by Gender:
 
 For heart, lung, and diabetes diseases, both genders are predominantly affected in older age groups, with a median age around 80.
+
+## Summary
+
+Our analysis revealed significant patterns in disease-related deaths across different demographics. For both heart and lung diseases, males experienced a slightly higher mortality rate than females, with 52.1% and 53.3% of deaths respectively. Marital status also played a notable role; a majority of the affected men were married, while a significant proportion of the affected women were widowed, highlighting potential social support factors. Racial disparities were evident, with White individuals constituting the largest number of deaths for both diseases, followed by Black individuals.
+
+Age distribution analysis indicated that individuals aged 60 to 80 were predominantly affected by both heart and lung diseases, with death rates increasing significantly with age. Regression analyses underscored this trend, showing an exponential rise in death rates among older age groups. Temporal trends revealed fluctuations in the number of deaths from heart, lung, and diabetes diseases over the years, with heart disease consistently resulting in the highest mortality. These findings underscore the importance of targeted public health strategies that address the specific needs of older adults, widowed individuals, and racial disparities in disease outcomes.
 
 ## Contributors
 Jessica Borbon 
