@@ -42,11 +42,11 @@ Cleaning Mortality Data:
 
 Step 3: Output Cleaned Data
 
-After cleaning the data using the code in the 2005_US_Death_DataCleaning.ipynb notebook, you will obtain output CSV files containing the cleaned data.
+After cleaning the data using the code in the '2005_US_Death_DataCleaning.ipynb' notebook, you will obtain output CSV files containing the cleaned data.
 These cleaned CSV files will be used for this project and should be saved in an appropriate directory for further analysis.
 
 ## Cleaning Code
-The cleaning code provided in the 2005_US_Death_DataCleaning.ipynb notebook includes steps for:
+The cleaning code provided in the '2005_US_Death_DataCleaning.ipynb' notebook includes steps for:
 
 Filtering data based on relevant criteria such as demographic variables (race, age, and sex).
 Ensure you adjust any year-specific details when applying the cleaning process to different years.
